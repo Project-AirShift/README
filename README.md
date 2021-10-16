@@ -1,5 +1,7 @@
 # *More info soon...*
 
+---
+
 ## Author
 
 **Project AirShift** © [AirShift](https://github.com/Jordaar/Project-AirShift).  
